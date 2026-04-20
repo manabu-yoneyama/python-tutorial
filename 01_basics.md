@@ -40,6 +40,21 @@ print(greeting)  # Hello World
 <summary>解答を表示</summary>
 ```python
 
+> [!NOTE]
+> これはNotionのコールアウトのような補足説明です。
+
+> [!TIP]
+> 便利な使い方のヒントを表示できます。
+
+> [!IMPORTANT]
+> 重要な情報を目立たせることができます。
+
+> [!WARNING]
+> 注意が必要な内容に使います。
+
+> [!CAUTION]
+> 警告を表示します。
+
 ---
 
 次章: [制御構造](02_control_structures.md)
