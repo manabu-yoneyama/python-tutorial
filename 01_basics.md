@@ -40,6 +40,7 @@ print(greeting)  # Hello World
 <summary>解答を表示</summary>
 ```python
 ```
+</details>
 
 > [!NOTE]
 > これはNotionのコールアウトのような補足説明です。
