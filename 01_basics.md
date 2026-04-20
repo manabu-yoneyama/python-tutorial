@@ -42,6 +42,15 @@ print(greeting)  # Hello World
 ```
 </details>
 
+> 💡 **ポイント**
+> ここに補足説明を書きます。
+>
+
+<div style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
+  💡 <b>コールアウト風表示</b><br>
+  このようにHTMLタグを使えば、枠線や背景色を指定できます。
+</div>
+
 > [!NOTE]
 > これはNotionのコールアウトのような補足説明です。
 
